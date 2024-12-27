@@ -258,6 +258,8 @@
   --sizing-size-5: var(--unit-5);
   --sizing-size-7: var(--unit-7);
   --sizing-size-11: var(--unit-11);
+  --sizing-width-10: var(--unit-10);
+  --sizing-width-8: var(--unit-8);
 }
 
 [data-theme="Default"] {
